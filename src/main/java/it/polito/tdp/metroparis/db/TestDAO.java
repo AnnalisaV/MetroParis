@@ -13,7 +13,7 @@ public class TestDAO {
 			
 			MetroDAO dao = new MetroDAO() ;
 			
-			System.out.println(dao.getAllFermate()) ;
+			//System.out.println(dao.getAllFermate()) ;
 			System.out.println(dao.getAllLinee()) ;
 
 		} catch (Exception e) {
